@@ -50,7 +50,7 @@ The datasets consists of several medical predictor variables and one target vari
 
 3. There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
 
-**Data Exploration:**
+# Data Exploration:
 
 1. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
 
