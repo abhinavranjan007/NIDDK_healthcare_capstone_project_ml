@@ -1,6 +1,6 @@
 # NIDDK_healthcare_capstone_project_ml
 
-## Problem Statement
+# Problem Statement
 
 1.NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
 
@@ -8,11 +8,11 @@
 
 3.Build a model to accurately predict whether the patients in the dataset have diabetes or not.
 
-## Dataset Description
+# Dataset Description
 
 The datasets consists of several medical predictor variables and one target variable (Outcome). Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
-## Variables	Description
+# Variables	Description
 
 1.Pregnancies	Number of times pregnant
 
